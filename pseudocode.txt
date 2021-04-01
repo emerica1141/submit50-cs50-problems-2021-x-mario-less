@@ -1,0 +1,4 @@
+1. Get int from user ( more then 0, less than 8)
+2. Make code to type "Stored:" to terminal window
+3. Use forLoop for making a pyramid
+4. Make it start on a new line every time
